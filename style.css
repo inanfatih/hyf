@@ -1,0 +1,39 @@
+.engine {
+  max-width: 100%;
+  margin: auto;
+  background-color: #f8da56;
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+
+.margintop {
+  margin-top: 25px;
+}
+
+.othersPreferMargin {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: cornflowerblue;
+  padding: 10px;
+  font-weight: bold;
+  border-top: 5px darkblue solid;
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.centeredText {
+  text-align: center;
+}
